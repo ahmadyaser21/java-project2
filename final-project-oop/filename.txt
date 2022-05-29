@@ -1,0 +1,8 @@
+Customer Number : 1
+----------------------------------------
+Item Number : 1
+Item Name : efkkg
+Item Price : 123
+Item Quantity : 2
+Item Type : g
+----------------------------------------
